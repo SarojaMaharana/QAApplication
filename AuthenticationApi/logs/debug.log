@@ -1,0 +1,113 @@
+2018-11-18 19:53:39 - handleResponse
+2018-11-18 19:57:21 - Starting UserControllerTest on Dell with PID 6064 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 19:57:21 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 19:57:21 - No active profile set, falling back to default profiles: default
+2018-11-18 19:57:43 - Started UserControllerTest in 25.438 seconds (JVM running for 51.506)
+2018-11-18 19:57:43 -  inside login controller method.
+2018-11-18 19:57:43 - handleResponse
+2018-11-18 19:58:39 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 19:59:05 - handleResponse
+2018-11-18 19:59:24 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 19:59:24 - handleResponse
+2018-11-18 20:03:18 - Starting UserControllerTest on Dell with PID 8652 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:03:18 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:03:18 - No active profile set, falling back to default profiles: default
+2018-11-18 20:03:23 - Started UserControllerTest in 6.218 seconds (JVM running for 10.271)
+2018-11-18 20:03:24 -  inside login controller method.
+2018-11-18 20:03:24 - handleResponse
+2018-11-18 20:03:24 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:03:24 - handleResponse
+2018-11-18 20:03:24 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:03:24 - handleResponse
+2018-11-18 20:03:24 - Starting UserRepositoryTest on Dell with PID 8652 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:03:24 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:03:24 - No active profile set, falling back to default profiles: default
+2018-11-18 20:03:30 - Started UserRepositoryTest in 6.05 seconds (JVM running for 16.947)
+2018-11-18 20:03:31 -  Inside register user Service. 
+2018-11-18 20:03:31 -  Exception occured during user save 
+2018-11-18 20:03:31 -  Inside register user Service. 
+2018-11-18 20:03:31 -  Inside login service methiod 
+2018-11-18 20:03:31 -  Unexpected error coccured 
+2018-11-18 20:06:37 -  Inside register user Service. 
+2018-11-18 20:06:37 -  Exception occured during user save 
+2018-11-18 20:06:37 -  Inside register user Service. 
+2018-11-18 20:06:37 -  Inside login service methiod 
+2018-11-18 20:06:37 -  Unexpected error coccured 
+2018-11-18 20:21:35 - Starting UserControllerTest on Dell with PID 8760 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:21:35 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:21:35 - No active profile set, falling back to default profiles: default
+2018-11-18 20:21:40 - Started UserControllerTest in 6.821 seconds (JVM running for 14.995)
+2018-11-18 20:21:40 -  inside login controller method.
+2018-11-18 20:21:40 - handleResponse
+2018-11-18 20:21:40 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:21:40 - handleResponse
+2018-11-18 20:21:40 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:21:40 - handleResponse
+2018-11-18 20:21:41 - Starting UserRepositoryTest on Dell with PID 8760 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:21:41 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:21:41 - No active profile set, falling back to default profiles: default
+2018-11-18 20:21:46 - Started UserRepositoryTest in 5.762 seconds (JVM running for 21.475)
+2018-11-18 20:21:48 -  Inside login service methiod 
+2018-11-18 20:21:48 -  Unexpected error coccured 
+2018-11-18 20:21:48 -  Inside register user Service. 
+2018-11-18 20:26:17 - Starting UserControllerTest on Dell with PID 7484 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:26:17 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:26:17 - No active profile set, falling back to default profiles: default
+2018-11-18 20:26:21 - Started UserControllerTest in 6.327 seconds (JVM running for 10.174)
+2018-11-18 20:26:22 -  inside login controller method.
+2018-11-18 20:26:22 - handleResponse
+2018-11-18 20:26:22 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:26:22 - handleResponse
+2018-11-18 20:26:22 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:26:22 - handleResponse
+2018-11-18 20:26:22 - Starting UserRepositoryTest on Dell with PID 7484 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:26:22 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:26:22 - No active profile set, falling back to default profiles: default
+2018-11-18 20:26:29 - Started UserRepositoryTest in 6.877 seconds (JVM running for 17.93)
+2018-11-18 20:26:30 -  Inside register user Service. 
+2018-11-18 20:26:30 -  Exception occured during user save 
+2018-11-18 20:26:30 -  Inside login service methiod 
+2018-11-18 20:26:30 -  Unexpected error coccured 
+2018-11-18 20:26:30 -  Inside register user Service. 
+2018-11-18 20:30:49 -  Inside register user Service. 
+2018-11-18 20:31:57 -  Exception occured during user save 
+2018-11-18 20:32:36 -  Inside login service methiod 
+2018-11-18 20:32:36 -  Unexpected error coccured 
+2018-11-18 20:34:18 -  Inside register user Service. 
+2018-11-18 20:34:30 -  Inside register user Service. 
+2018-11-18 20:36:54 - Starting UserControllerTest on Dell with PID 8216 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:36:54 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:36:54 - No active profile set, falling back to default profiles: default
+2018-11-18 20:37:00 - Started UserControllerTest in 7.36 seconds (JVM running for 11.525)
+2018-11-18 20:37:00 -  inside login controller method.
+2018-11-18 20:37:00 - handleResponse
+2018-11-18 20:37:00 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:37:00 - handleResponse
+2018-11-18 20:37:00 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:37:00 - handleResponse
+2018-11-18 20:37:01 - Starting UserRepositoryTest on Dell with PID 8216 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:37:01 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:37:01 - No active profile set, falling back to default profiles: default
+2018-11-18 20:37:07 - Started UserRepositoryTest in 6.563 seconds (JVM running for 18.806)
+2018-11-18 20:37:08 -  Inside register user Service. 
+2018-11-18 20:37:08 -  Inside login service methiod 
+2018-11-18 20:37:08 -  Unexpected error coccured 
+2018-11-18 20:37:08 -  Inside register user Service. 
+2018-11-18 20:39:03 - Starting UserControllerTest on Dell with PID 8184 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:39:03 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:39:03 - No active profile set, falling back to default profiles: default
+2018-11-18 20:39:09 - Started UserControllerTest in 6.576 seconds (JVM running for 10.566)
+2018-11-18 20:39:09 -  inside login controller method.
+2018-11-18 20:39:09 - handleResponse
+2018-11-18 20:39:09 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:39:09 - handleResponse
+2018-11-18 20:39:09 -  inside signup controller method.UserEntity [id=1, email=saroj@gmail.com, password=password, firstName=Saroj, lastName=Maharana, created=Fri Oct 11 00:00:00 IST 2019]
+2018-11-18 20:39:09 - handleResponse
+2018-11-18 20:39:09 - Starting UserRepositoryTest on Dell with PID 8184 (started by Sarita in E:\Saroj\QnAEclipse\QnAApplication\AuthenticationApi)
+2018-11-18 20:39:09 - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 20:39:09 - No active profile set, falling back to default profiles: default
+2018-11-18 20:39:16 - Started UserRepositoryTest in 6.344 seconds (JVM running for 17.66)
+2018-11-18 20:39:17 -  Inside register user Service. 
+2018-11-18 20:39:17 -  Inside login service methiod 
+2018-11-18 20:39:17 -  Unexpected error coccured 
+2018-11-18 20:39:17 -  Inside register user Service. 
